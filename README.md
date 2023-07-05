@@ -1,16 +1,14 @@
-### Hi, I'm Qurbonpulot Rustamqulov <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47rp08frd87c5s88vvf0h8bzf5etoiw76clp0tdk7d&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+### Hi, I'm Qurbonpulot Rustamqulov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "27px">
 
-<!--
-**qurbonpulotrustamqulov/qurbonpulotrustamqulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am student in TUIT University and PDP Academy. <br/>
+I push my work to my Telegram Portfolios channel:
+<a href = "https://t.me/dart_f1utter" > 
+  <img src = "https://www.freepnglogos.com/uploads/telegram-png/telegram-software-wikipedia-2.png" width="15px">
+<a/>
+### Languages and tools I work with:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### HTML, CSS, C++, Dart and Flutter
+<br/>
+-📍<nbsp>Current location: Tashkent, Uzbekistan<br/>
+-✍️<nbsp>Ask me about anything, I'm happy to help<br/>
+-✍️<nbsp>How to reach me: <a href = "https://t.me/dart_f1utter" >My Telegram Account<a/> 

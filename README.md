@@ -1,4 +1,4 @@
-### Hi, I'm Qurbonpulot Rustamqulov <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47rp08frd87c5s88vvf0h8bzf5etoiw76clp0tdk7d&ep=v1_stickers_search&rid=giphy.gif&ct=s" width 30px >
+### Hi, I'm Qurbonpulot Rustamqulov <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47rp08frd87c5s88vvf0h8bzf5etoiw76clp0tdk7d&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 <!--
 **qurbonpulotrustamqulov/qurbonpulotrustamqulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

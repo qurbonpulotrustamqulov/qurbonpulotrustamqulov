@@ -2,7 +2,7 @@
 
 I am student in TUIT University and PDP Academy. <br/>
 I push my work to Telegram channel:
-<a href = "https://t.me/dart_f1utter" >My Portfolio<a/>
+<a href = "https://t.me/by_Rustamqulov" >My Portfolio<a/>
 ### Languages and tools I work with:
 
 ### HTML, CSS, C++, Dart and Flutter
